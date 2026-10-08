@@ -1,0 +1,5 @@
+.venv
+.env
+%SystemDrive%
+__pycache__
+.vscode/
